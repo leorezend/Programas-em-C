@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int f(int x);
+
 int main(int argc, char** argv){
+    int f(int x);
 	int n,i;
 	printf("coloque um numero:");
 	scanf("%d",&n);
